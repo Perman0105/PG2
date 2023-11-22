@@ -1,0 +1,7 @@
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/Aufgabe4.dir
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Studium/PG2/Praktikum/Praktikum1/build-Aufgabe4-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

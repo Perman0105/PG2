@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c8b958ffbd4c8afff512.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Aufgabe1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Aufgabe1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aufgabe1-Debug-df7e55bad2e14dc8f1d5.json",
+					"name" : "Aufgabe1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aufgabe1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aufgabe1_autogen-Debug-b172adf05fc05a519777.json",
+					"name" : "Aufgabe1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aufgabe1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aufgabe1_autogen_timestamp_deps-Debug-ab0fc4a3a02c3b5bb62f.json",
+					"name" : "Aufgabe1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "D:/Studium/PG2/Test_add/Praktikum2/Aufgabe1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

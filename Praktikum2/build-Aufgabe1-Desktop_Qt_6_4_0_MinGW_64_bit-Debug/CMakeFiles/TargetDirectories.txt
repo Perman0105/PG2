@@ -1,0 +1,9 @@
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Aufgabe1.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Aufgabe1_autogen_timestamp_deps.dir
+D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Aufgabe1_autogen.dir

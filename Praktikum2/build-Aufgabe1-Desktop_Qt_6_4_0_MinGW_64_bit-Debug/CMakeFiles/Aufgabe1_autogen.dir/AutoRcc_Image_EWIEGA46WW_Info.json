@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Aufgabe1_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Studium/PG2/Test_add/Praktikum2/Aufgabe1",
+	"CMAKE_SOURCE_DIR" : "D:/Studium/PG2/Test_add/Praktikum2/Aufgabe1",
+	"INCLUDE_DIR" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Aufgabe1_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Studium/PG2/Test_add/Praktikum2/Aufgabe1/Image/datei-hinzufugen.png"
+	],
+	"LOCK_FILE" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Aufgabe1_autogen.dir/AutoRcc_Image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Image.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Aufgabe1_autogen.dir/AutoRcc_Image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Studium/PG2/Test_add/Praktikum2/Aufgabe1/Image.qrc",
+	"VERBOSITY" : 0
+}

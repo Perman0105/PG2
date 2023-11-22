@@ -1,0 +1,22 @@
+# ninja log v5
+3	2959	7223864849911654	Aufgabe1_autogen/timestamp	6704e8667f9071c2
+3	2959	7223864849911654	Aufgabe1_autogen/mocs_compilation.cpp	6704e8667f9071c2
+3	2959	7223864849911654	D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Aufgabe1_autogen/timestamp	6704e8667f9071c2
+3	2959	7223864849911654	D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Aufgabe1_autogen/mocs_compilation.cpp	6704e8667f9071c2
+2960	3270	7223864857509139	Aufgabe1_autogen/EWIEGA46WW/qrc_Image.cpp	b748a3a82b954ed0
+2960	3270	7223864857509139	D:/Studium/PG2/Test_add/Praktikum2/build-Aufgabe1-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Aufgabe1_autogen/EWIEGA46WW/qrc_Image.cpp	b748a3a82b954ed0
+3382	4385	7223864861386931	CMakeFiles/Aufgabe1.dir/Aufgabe1_autogen/EWIEGA46WW/qrc_Image.cpp.obj	a880867747fc78cb
+3306	6829	7223864894170738	CMakeFiles/Aufgabe1.dir/hotelbooking.cpp.obj	4954851ddc9953fd
+3327	6840	7223864894210736	CMakeFiles/Aufgabe1.dir/rentalcarreservation.cpp.obj	cb430a65065d9e6c
+3298	6908	7223864894914199	CMakeFiles/Aufgabe1.dir/flightbooking.cpp.obj	81f83b3f573b507f
+3313	6981	7223864895717885	CMakeFiles/Aufgabe1.dir/booking.cpp.obj	b85a72a4788725df
+3335	7029	7223864896026526	CMakeFiles/Aufgabe1.dir/trainticket.cpp.obj	cd3a9d62be699a35
+3348	9544	7223864921359391	CMakeFiles/Aufgabe1.dir/flightbookingui.cpp.obj	ad2fa70bd2143fb8
+3342	9627	7223864922184383	CMakeFiles/Aufgabe1.dir/rentalcarui.cpp.obj	3c1fb070e859456a
+3320	9650	7223864922413176	CMakeFiles/Aufgabe1.dir/hotelbookingui.cpp.obj	90abcea19491a23
+3375	9915	7223864925056553	CMakeFiles/Aufgabe1.dir/trainticketui.cpp.obj	6d0c6265a286584c
+3291	12942	7223864955361796	CMakeFiles/Aufgabe1.dir/main.cpp.obj	6bc045ae5ccf1c5c
+3271	13345	7223864959394345	CMakeFiles/Aufgabe1.dir/Aufgabe1_autogen/mocs_compilation.cpp.obj	51624332cb82eede
+3277	14020	7223864966120148	CMakeFiles/Aufgabe1.dir/travelagencyui.cpp.obj	9429f477607e1485
+3284	16104	7223864986862899	CMakeFiles/Aufgabe1.dir/travelagency.cpp.obj	944e90c01f07d1e8
+16105	19352	7223865019356288	Aufgabe1.exe	98033d671cc6edb2
